@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "89Oqp90w2wp06ht5nUSVHD45phmTiV9EhjCe/MCvk2n2Wr673l7CjDnn9NZ2/YCRDK32WoqKW43zVw7hWp3d+w==",
+  "success": true,
+  "projectFilePath": "G:\\aspnetcore3-authentication-master\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jenisha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Jenisha\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jenisha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Jenisha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
